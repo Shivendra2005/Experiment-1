@@ -1,0 +1,11 @@
+// NAME - SHIVENDRA DWIVEDI
+// PRN - 23070123122
+// EXPERIMENT - 1(A) 
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"HELLO WORLD!";     //Output - HELLO WORLD!
+    return 0;
+}
