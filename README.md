@@ -26,6 +26,31 @@ int main()
     return 0;
 }
 ```
+#CODE B:
+```
+//Name - Shivendra Dwivedi 
+//PRN - 2307123122 
+//EXPERIMENT- 1(B)
+
+#include<iostream>
+using namespace std;
+int main() {
+    int n1, n2, sum=0, sub, prod, div;
+    cout<<"Enter first number.";           //Output - Enter first number.25
+    cin>>n1;
+    cout<<"Enter second number.";          //Enter second number.5
+    cin>>n2;
+    sum=n1+n2;
+    cout<<"Sum of the numbers is: "<<sum<<"\n";    //Sum of the numbers is: 30
+    sub=n1-n2;
+    cout<<"Difference of the numbers is: "<<sub<<"\n";  //Difference of the numbers is: 20
+    prod=n1*n2;
+    cout<<"Product of the numbers is: "<<prod<<"\n";        //Product of the numbers is: 125 
+    div=n1/n2;
+    cout<<"Quotient is: "<<div<<"\n";                      //Quotient is: 5
+    return 0;
+}
+```
 Output (A):
 <img width="659" alt="Screenshot 2024-07-30 at 11 44 42 PM" src="https://github.com/user-attachments/assets/b6aaf241-66c2-435e-b226-27717190ab3e">
 
