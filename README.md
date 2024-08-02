@@ -12,6 +12,20 @@ Syntax: cout<<value_to_print<<value_to_print;
 (B) Basic arithematic operations like addition, subtravtion, multiplication and division can be performed.
 To take input from the user, we use "cin" command.
 
+#CODE A:
+```
+// NAME - SHIVENDRA DWIVEDI
+// PRN - 23070123122
+// EXPERIMENT - 1(A) 
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"HELLO WORLD!";     //Output - HELLO WORLD!
+    return 0;
+}
+```
 Output (A):
 <img width="659" alt="Screenshot 2024-07-30 at 11 44 42 PM" src="https://github.com/user-attachments/assets/b6aaf241-66c2-435e-b226-27717190ab3e">
 
